@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28648e3186b4ee69",
+        "id": "7973e7b49cfac2c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c5a9782e5361bf0e",
+            "id": "b0d3fa9362f88b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fe/javascript/prototype.md",
+                "file": "weekly/2023/2023年第2周.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fe/javascript/prototype.md",
+                "file": "weekly/2023/2023年第2周.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fe/javascript/prototype.md",
+                "file": "weekly/2023/2023年第2周.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fe/javascript/prototype.md"
+                "file": "weekly/2023/2023年第2周.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +145,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e885ea18de2ca970",
+  "active": "b0d3fa9362f88b32",
   "lastOpenFiles": [
-    "public/logo.png",
+    "weekly/2023/2023年第1周.md",
+    "weekly/2023/2023年第2周.md",
+    "weekly/2023",
+    "fe/css/index.md",
+    "fe/javascript/images/prototype/__proto__.png",
+    "fe/javascript/images/prototype/prototypes-2.png",
+    "fe/javascript/images/prototype/prototypes-1.jpg",
+    "fe/javascript/images/prototype/prototype.png",
+    "fe/javascript/images/prototype/prototype-chain.png",
+    "fe/javascript/images/prototype/constructor.png",
+    "fe/network/images/tcp-three-handshakes.png",
+    "fe/network/images/tcp-four-waves.png",
+    "fe/javascript/images/prototype",
+    "fe/javascript/images/prototypal-inheritance.png",
+    "fe/javascript/images/parasitic-combination-inheritance.png",
+    "fe/javascript/code/typeof.js",
+    "fe/javascript/code/toString.js",
+    "fe/javascript/code/ToPrimitive.js",
+    "fe/javascript/code/isArray.js",
+    "fe/javascript/code/instanceof.js",
+    "fe/javascript/code/constructor.js",
+    "fe/es6/code/nullish-coalescing.js",
+    "fe/coding/code/throttle.js",
+    "fe/typescript/base.md",
+    "fe/network/tcp.md",
+    "fe/network/http.md",
+    "fe/javascript/types.md",
+    "fe/javascript/prototype.md",
+    "fe/javascript/inherit.md",
+    "fe/javascript/conversions.md",
+    "fe/javascript/clone.md",
+    "fe/html/index.md",
+    "fe/es6/index.md",
+    "fe/concept/page-rendering.md",
+    "fe/concept/module.md",
     "fe/coding/index.md",
+    "fe/browser/index.md",
     "未命名.canvas",
     "2023-10-01.md",
     "workflow/git/command.md",
-    "fe/es6/index.md",
     "index.md",
     "efficiency/bookmark-scripts.md",
     "efficiency/software/browser.md"

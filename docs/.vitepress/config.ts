@@ -43,8 +43,8 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/0uxmin' }],
 
     footer: {
-      message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao'
+      message: 'Power by Vitepress',
+      copyright: 'Copyright © 2021-2077'
     },
 
     darkModeSwitchLabel: '外观',
