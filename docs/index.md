@@ -3,7 +3,7 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: min's wiki
+  name: mi's wiki
   text: 
   tagline: I think Persistence is advancement.
   image:
