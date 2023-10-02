@@ -3,7 +3,7 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: mi's wiki
+  name: Dreamin's wiki
   text: 
   tagline: I think Persistence is advancement.
   image:
@@ -20,8 +20,8 @@ hero:
       theme: alt
 features:
   - icon: 📖
-    title: 前端物语
-    details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
+    title: 学习周报
+    details: 整理每周看过的学习内容<small>（ARTS）</small><br />如有异议按你的理解为主，不接受反驳
     link: /fe/javascript/types
     linkText: 前端常用知识
   - icon: 📘
@@ -45,7 +45,7 @@ features:
     link: /pit/npm
     linkText: 踩坑记录
   - icon: 💯
-    title: 吾志所向，一往无前。
+    title: 运维开发。
     details: '<small class="bottom-small">一个想躺平的小开发</small>'
     link: https://fe-mm.com
 ---
