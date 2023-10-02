@@ -70,7 +70,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '茂茂',
     items: [
-      { text: '个人主页', link: 'https://fe-mm.com' },
+      { text: '个人主页', link: 'https://home.xmelon.cafe' },
       {
         text: '日常笔记',
         link: 'https://github.com/maomao1996/daily-notes'

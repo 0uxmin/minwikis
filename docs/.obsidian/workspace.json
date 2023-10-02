@@ -147,6 +147,9 @@
   },
   "active": "b0d3fa9362f88b32",
   "lastOpenFiles": [
+    "nav/index.scss",
+    "nav/data.ts",
+    "nav",
     "weekly/2023/2023年第1周.md",
     "weekly/2023/2023年第2周.md",
     "weekly/2023",
@@ -168,8 +171,6 @@
     "fe/javascript/code/isArray.js",
     "fe/javascript/code/instanceof.js",
     "fe/javascript/code/constructor.js",
-    "fe/es6/code/nullish-coalescing.js",
-    "fe/coding/code/throttle.js",
     "fe/typescript/base.md",
     "fe/network/tcp.md",
     "fe/network/http.md",

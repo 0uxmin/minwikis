@@ -22,7 +22,7 @@ features:
   - icon: 📖
     title: 学习周报
     details: 整理每周看过的学习内容<small>（ARTS）</small><br />如有异议按你的理解为主，不接受反驳
-    link: /fe/javascript/types
+    link: /weekly/2023/2023年第1周
     linkText: 前端常用知识
   - icon: 📘
     title: 源码阅读
