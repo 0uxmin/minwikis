@@ -13,6 +13,12 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   ).concat(sidebarAuto(
     path.resolve(__dirname, "../../workflow/git"),
 
+  )).concat(sidebarAuto(
+    path.resolve(__dirname, "../../workflow/computer-network"),"计算机网络"
+    
+  )).concat(sidebarAuto(
+    path.resolve(__dirname, "../../workflow/computer-focus"),"计算机组成原理"
+    
   )),
   "/analysis/": sidebarAuto(
     path.resolve(__dirname,"../../analysis/utils"),"分析"

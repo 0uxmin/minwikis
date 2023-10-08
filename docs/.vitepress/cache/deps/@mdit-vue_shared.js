@@ -1,3 +1,5 @@
+import "./chunk-UXIASGQL.js";
+
 // node_modules/@mdit-vue/shared/dist/index.mjs
 var htmlEscapeMap = {
   "&": "&amp;",
