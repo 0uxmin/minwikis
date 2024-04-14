@@ -3,21 +3,19 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: Dreamin's wiki
+  name: 林佳敏
   text: 
   tagline: I think Persistence is advancement.
   image:
     src: /logo.png
-    alt: melon's wiki
+    alt: linjiamin
   actions:
-    - text: 前端物语
-      link: /fe/es6/
-    - text: 前端导航
+    - text: Blog
+      link: https://blog.linjiam.in
+    - text: Tools
       link: /nav
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-      theme: alt
+
 features:
   - icon: 📖
     title: 学习周报
